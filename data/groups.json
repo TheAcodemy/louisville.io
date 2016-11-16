@@ -1,4 +1,14 @@
 {
+	"acodemy" : {
+		  "name": "Free web development class from Acodemy",
+		  "frequency": "Meets every Wednesday @ 6pm",
+		  "web": "http://acodemy.com/",
+		  "mailing-list": "https://groups.google.com/forum/#!forum/theacodem",
+		  "calendar": "http://www.meetup.com/GameDevLou/events/ical/",
+		  "facebook": "https://www.facebook.com/TheAcodemy/",
+		  "twitter": "TheAcodemy"
+		  "description": "Learn the basics of how to build a website. No prior coding knowledge is required. Please bring your laptop."
+	},
 	"aiga-louisville": {
 		"name": "AIGA Louisville",
 		"frequency": "Meets sporadically",
